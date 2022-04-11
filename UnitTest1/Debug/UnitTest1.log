@@ -1,0 +1,14 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\User\source\repos\OOP_Lab_2.8\OOP_Lab_2.8\Account.cpp(230,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\OOP_Lab_2.8\OOP_Lab_2.8\Account.cpp(260,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\OOP_Lab_2.8\OOP_Lab_2.8\Account.cpp(290,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\OOP_Lab_2.8\OOP_Lab_2.8\Account.cpp(387,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\OOP_Lab_2.8\OOP_Lab_2.8\Account.cpp(402,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\OOP_Lab_2.8\OOP_Lab_2.8\Account.cpp(419,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\OOP_Lab_2.8\OOP_Lab_2.8\Account.cpp(440,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\OOP_Lab_2.8\OOP_Lab_2.8\Account.cpp(454,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\OOP_Lab_2.8\OOP_Lab_2.8\Account.cpp(621,51): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\User\source\repos\OOP_Lab_2.8\OOP_Lab_2.8\Account.cpp(406): warning C4715: 'Account::Subtract': not all control paths return a value
+     Creating library C:\Users\User\source\repos\OOP_Lab_2.8\Debug\UnitTest1.lib and object C:\Users\User\source\repos\OOP_Lab_2.8\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\User\source\repos\OOP_Lab_2.8\Debug\UnitTest1.dll
